@@ -1,0 +1,1 @@
+stress-ng --cpu 1 --metrics-brief

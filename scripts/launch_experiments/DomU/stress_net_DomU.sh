@@ -1,0 +1,1 @@
+stress-ng --netdev 1 --metrics-brief
